@@ -16,6 +16,7 @@ The Titanic dataset is a classic example used for EDA. You'll clean the data, ha
  The columns that can be dropped are: 
   * PassengerId, Name, Ticket, Cabin: They are strings, cannot be categorized and don't contribute much to the outcome. 
   * Age,Fare: Instead, the respective range columns are retained.
+
 The titanic data can be analyzed using many more graph techniques and also more column correlations, than, as described in this article.
 Once the EDA is completed, the resultant dataset can be used for predictions.
 
